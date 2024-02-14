@@ -10,8 +10,6 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alg
 
 ##
 
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
