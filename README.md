@@ -7,7 +7,7 @@ Olá, eu sou Jefferson Alves! Sou apaixonado por ciência da computação, sempr
 Neste GitHub, você encontrará vários projetos nos quais trabalhei. Cada repositório é um reflexo do meu crescimento como desenvolvedor e da minha jornada na ciência da computação.
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou interesse em colaborar!
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonalves80&theme=blue-green"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonalves80&theme=blue-green.yaml"/>
 
 
 ##
