@@ -4,7 +4,9 @@
 
 É um prazer, sou estudante de **Ciência da Computação**, tenho uma paixão por tecnologia e sempre em busca de novos conhecimentos. Meu objetivo é me tornar um **Engenheiro de Software** e poder contribuir com projetos incríveis.
 
-## Resumo 
+##
+
+###  Resumo 
 - 🌱 Atualmente, estou aprendendo sobre algoritmos, estruturas de dados e estudando desenvolvimento web.
 - 💡 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 - 🚀 Além disso, sou um entusiasta de código aberto e adoro colaborar em projetos interessantes.
