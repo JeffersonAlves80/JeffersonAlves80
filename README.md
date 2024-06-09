@@ -1,36 +1,35 @@
-# Olá, eu sou Jefferson Alves, estudante de ciência da computação!
+# Olá, me chamo **Jefferson**
 
-## Sobre mim
+### Sobre mim
 
-Olá, eu sou Jefferson Alves! Sou apaixonado por ciência da computação, sempre buscando expandir meu conhecimento e habilidades na área. Tenho interesse em várias subáreas da computação e estou sempre aberto para aprender mais.
+É um prazer, sou estudante de **Ciência da Computação**, tenho uma paixão por tecnologia e sempre em busca de novos conhecimentos. Meu objetivo é me tornar um **Engenheiro de Software** e poder contribuir com projetos incríveis.
 
-Neste GitHub, você encontrará vários projetos nos quais trabalhei. Cada repositório é um reflexo do meu crescimento como desenvolvedor e da minha jornada na ciência da computação.
-Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou interesse em colaborar!
+## Rssumo 
+- 🌱 Atualmente, estou aprendendo sobre algoritmos, estruturas de dados e estudando desenvolvimento web.
+- 💡 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+- 🚀 Além disso, sou um entusiasta de código aberto e adoro colaborar em projetos interessantes.
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonalves80&theme=blue-green.yaml"/>
+## Linguagens e Ferramentas
+- 💻 Python, C e C++
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git, Visual Studio Code, Figma
 
+Vamos construir coisas incríveis juntos! 😊
 
-##
-
-<div style="display: inline_block"><br> 
-  <img align="center" alt="jeff-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="jeff-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jeff-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jeff-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jeff-C++" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="jeff-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="jeff-HTML" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" alt="jeff-CSS" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jeff-Js" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jeff-C++" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="jeff-Python" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-  ##
-  
-  <a href="https://www.instagram.com/jefferson_alves70" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+##
   
  <!-- colocar as minhas redes depois
+
+  <a href="https://www.instagram.com/jefferson_alves70" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "      "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="        " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
 
